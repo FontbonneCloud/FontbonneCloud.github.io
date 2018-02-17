@@ -1642,7 +1642,7 @@ body.students ul li.home-blog-post{
     transition: .1s ease-in;
     position: relative;
     overflow: hidden;
-    height: 180px;
+    height: 100px;
 }
 
 .home-blog-post .blog-thumb img {
